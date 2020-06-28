@@ -1,0 +1,3 @@
+model_checkpoint_path: "rbm_cl_model.ckpt"
+all_model_checkpoint_paths: "final_rbm_cl_model"
+all_model_checkpoint_paths: "rbm_cl_model.ckpt"
